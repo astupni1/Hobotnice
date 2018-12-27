@@ -1,5 +1,5 @@
 ######################################
-#DE with edgeR: Heatmaps
+#Hobotnice functions
 ######################################
 
 library('edgeR')
